@@ -1,4 +1,4 @@
-package FundamentalsWarmUp;
+package FundamentalsWarmUp.RockPaperScissorsByMyagmardorj;
 import java.util.Random;
 import java.util.Scanner;
 
